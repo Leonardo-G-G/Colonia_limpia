@@ -326,7 +326,7 @@
     <div class="card p-4 mt-5">
         <h2 class="text-success mb-4">Diagrama de Gantt del Proyecto “Colonia Limpia”</h2>
 
-        <img src="{{ asset('ghant.png') }}"
+        <img src="{{ asset('ghant_c.png') }}"
              alt="Diagrama de Gantt del proyecto Colonia Limpia"
              class="img-fluid rounded shadow"
              style="max-width:85%; height:auto;">
