@@ -164,7 +164,7 @@
                 </p>
             </div>
             <div class="col-md-4 text-center">
-                <img src="{{ asset('colonia_limpia.jpg') }}" alt="Proyecto Colonia Limpia" class="hero-image img-fluid">
+                <img src="{{ asset('Colonia_limpia.png') }}" alt="Proyecto Colonia Limpia" class="hero-image img-fluid">
             </div>
         </div>
     </div>
