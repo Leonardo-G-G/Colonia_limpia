@@ -216,7 +216,7 @@
                         <td>Carretillas</td>
                         <td>Teléfono</td>
                         <td>$800.00</td>
-                        <td>Municipio</td>
+                        <td>Integrantes del proyecto y Autoridades municipales</td>
                     </tr>
                     <tr>
                         <td rowspan="2"><strong>Capacitación en reciclaje</strong></td>
@@ -227,7 +227,7 @@
                         <td>Material didáctico</td>
                         <td>Proyector</td>
                         <td>$500.00</td>
-                        <td>Facilitador y asistentes</td>
+                        <td>Facilitador</td>
                     </tr>
                     <tr>
                         <td>1 semana</td>
@@ -274,7 +274,7 @@
                         <td>Oficios, señalética</td>
                         <td>Correo</td>
                         <td>$300.00</td>
-                        <td>Autoridades</td>
+                        <td>Autoridades municipales</td>
                     </tr>
                     <tr>
                         <td>1 semana</td>

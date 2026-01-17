@@ -96,8 +96,7 @@
                     <div class="card-body">
                         <i class="bi bi-diagram-3-fill fase-icon"></i>
                         <h5 class="mt-3">Fase 3</h5>
-                        <p class="small">Actividades, tareas,<br>
-                            recursos y procesos</p>
+                        <p class="small">Actividades, tareas,<br>recursos y procesos</p>
                     </div>
                 </div>
             </a>
@@ -121,9 +120,7 @@
                     <div class="card-body">
                         <i class="bi bi-bar-chart-steps fase-icon"></i>
                         <h5 class="mt-3">Fase 5: Control</h5>
-                        <p class="small"> Diagrama de Gantt<br>
-                            para gestión del proyecto
-                        </p>
+                        <p class="small">Diagrama de Gantt<br>para gestión del proyecto</p>
                     </div>
                 </div>
             </a>
@@ -138,9 +135,9 @@
     <div class="card p-4 mb-4">
         <h2 class="text-success">Introducción</h2>
         <p>
-            A partir de esta fase del proyecto <strong>“Colonia Limpia”</strong>, se identifican los
-            apoyos necesarios y se asignan responsabilidades claras a cada perfil, lo que permite
-            que las acciones planeadas se realicen de forma práctica y eficiente.
+            A partir de esta fase del proyecto <strong>“Colonia Limpia”</strong>, se identifican los apoyos
+            necesarios y se asignan responsabilidades claras a cada perfil, lo que permite que las
+            acciones planeadas se realicen de forma práctica y eficiente.
         </p>
         <p>
             Esta organización es clave para lograr la participación de la comunidad, optimizar los
@@ -165,117 +162,134 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>Coordinador del proyecto</strong></td>
-                        <td>Responsable, organizado, con capacidad de liderazgo y toma de decisiones.</td>
-                        <td>Supervisar actividades, coordinar al equipo, dar seguimiento al plan de acción.</td>
-                        <td>Todas las fases</td>
+                        <td><strong>Responsable del proyecto</strong></td>
+                        <td>Persona con capacidad de organización, análisis y toma de decisiones.</td>
+                        <td>
+                            Coordina las actividades del proyecto, analiza la información recabada,
+                            elabora registros de puntos críticos y evalúa el funcionamiento de la
+                            herramienta digital.
+                        </td>
+                        <td>
+                            Primera fase: Actividades previas<br>
+                            Tercera fase: Actividades de concreción
+                        </td>
                     </tr>
+
                     <tr>
-                        <td><strong>Equipo de diagnóstico</strong></td>
-                        <td>Observadores, comunicativos y comprometidos con la comunidad.</td>
-                        <td>Realizar recorridos, aplicar encuestas y registrar puntos críticos.</td>
-                        <td>Fase 1 y 3</td>
+                        <td><strong>Integrantes del proyecto</strong></td>
+                        <td>Equipo comprometido con el cuidado del medio ambiente y el trabajo comunitario.</td>
+                        <td>
+                            Realizan recorridos de observación, apoyan en la recolección de información
+                            y participan en la difusión de acciones del proyecto.
+                        </td>
+                        <td>
+                            Primera fase: Actividades previas<br>
+                            Segunda fase: Actividades de desarrollo
+                        </td>
                     </tr>
+
                     <tr>
                         <td><strong>Vecinos voluntarios</strong></td>
-                        <td>Participativos, solidarios y con disposición de colaborar.</td>
-                        <td>Apoyar en campañas de limpieza y uso de contenedores.</td>
-                        <td>Fase 3 y 4</td>
+                        <td>Habitantes de la colonia interesados en mejorar su entorno.</td>
+                        <td>
+                            Responden encuestas, participan en jornadas de limpieza y promueven el uso
+                            adecuado de los contenedores de basura.
+                        </td>
+                        <td>
+                            Primera fase: Actividades previas<br>
+                            Segunda fase: Actividades de desarrollo<br>
+                            Tercera fase: Actividades de concreción
+                        </td>
                     </tr>
+
                     <tr>
                         <td><strong>Facilitador ambiental</strong></td>
-                        <td>Con conocimientos en reciclaje y educación ambiental.</td>
-                        <td>Impartir talleres y orientar sobre separación de residuos.</td>
-                        <td>Fase 3</td>
+                        <td>Persona con conocimientos en educación ambiental y reciclaje.</td>
+                        <td>
+                            Imparte talleres de capacitación sobre reciclaje y manejo adecuado de residuos.
+                        </td>
+                        <td>
+                            Segunda fase: Actividades de desarrollo
+                        </td>
                     </tr>
+
                     <tr>
-                        <td><strong>Responsable tecnológico</strong></td>
-                        <td>Con habilidades digitales y manejo de herramientas tecnológicas.</td>
-                        <td>Diseñar y administrar la herramienta digital de reportes.</td>
-                        <td>Fase 3</td>
+                        <td><strong>Equipo del proyecto</strong></td>
+                        <td>Grupo de apoyo operativo y de difusión.</td>
+                        <td>
+                            Distribuye material informativo, difunde campañas y da seguimiento a los
+                            reportes ciudadanos.
+                        </td>
+                        <td>
+                            Segunda fase: Actividades de desarrollo<br>
+                            Tercera fase: Actividades de concreción
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Autoridades municipales</strong></td>
+                        <td>Personal del gobierno local con facultad para apoyar acciones comunitarias.</td>
+                        <td>
+                            Apoyan en la instalación de contenedores y en la disposición adecuada de los residuos.
+                        </td>
+                        <td>
+                            Tercera fase: Actividades de concreción
+                        </td>
                     </tr>
                 </tbody>
             </table>
         </div>
     </div>
-
     <!-- ESQUEMA DE ORGANIZACIÓN -->
-    <div class="card p-4">
-        <h2 class="text-success text-center mb-4">Esquema de organización del proyecto</h2>
+<div class="card p-4 mb-5">
+    <h2 class="text-success text-center mb-4">Esquema de organización del proyecto</h2>
 
-        <div class="row g-4">
-            <div class="col-md-4">
-                <div class="perfil-box">
-                    <h5>Coordinador del proyecto</h5>
-                    <p>Dirige y supervisa todas las fases del proyecto.</p>
-                </div>
-            </div>
+    <div class="text-center">
+        <img 
+            src="organigrama_proyecto.png" 
+            alt="Organigrama del proyecto Colonia Limpia"
+            class="img-fluid rounded shadow mb-3"
+        >
 
-            <div class="col-md-4">
-                <div class="perfil-box">
-                    <h5>Equipo de diagnóstico</h5>
-                    <p>Identifica problemáticas y recopila información clave.</p>
-                </div>
-            </div>
+        <p class="text-muted fst-italic">
+            Figura. Organigrama correspondiente a la estructura de organización y asignación de 
+            responsabilidades de la Fase 4 del proyecto Colonia Limpia.
+        </p>
+    </div>
+</div>
 
-            <div class="col-md-4">
-                <div class="perfil-box">
-                    <h5>Facilitador ambiental</h5>
-                    <p>Capacita a la comunidad en reciclaje y manejo de residuos.</p>
-                </div>
-            </div>
 
-            <div class="col-md-6">
-                <div class="perfil-box">
-                    <h5>Vecinos voluntarios</h5>
-                    <p>Participan activamente en campañas y actividades comunitarias.</p>
-                </div>
-            </div>
+  
 
-            <div class="col-md-6">
-                <div class="perfil-box">
-                    <h5>Responsable tecnológico</h5>
-                    <p>Gestiona la herramienta digital y el seguimiento de reportes.</p>
-                </div>
-            </div>
-        </div>
-        
-    </div><br>
-
- <!-- PREGUNTAS FINALES -->
+    <!-- PREGUNTAS FINALES -->
     <div class="card p-4">
         <h2 class="text-success mb-4">Reflexión sobre la división del trabajo</h2>
 
         <h5>¿Cuál es la importancia de la división del trabajo en la etapa de la organización?</h5>
         <p>
-            Es importante porque permite que cada persona sepa exactamente qué tiene que hacer dentro
-            del proyecto. Al repartir las actividades, el trabajo se vuelve más ordenado, se aprovecha
-            mejor el tiempo y se evitan confusiones. Además, al tener responsabilidades claras, el
-            proyecto puede avanzar de manera más eficiente y se logran mejor los objetivos planteados.
+            La división del trabajo es importante porque permite que cada persona conozca claramente
+            sus responsabilidades dentro del proyecto. Esto facilita la organización, mejora el uso
+            del tiempo y evita confusiones, logrando que el proyecto se desarrolle de manera eficiente.
         </p>
 
         <h5>¿Es necesario integrar colaboradores en tu proyecto? ¿Por qué?</h5>
         <p>
-            Sí, es necesario integrar colaboradores porque un proyecto comunitario no puede ser
-            realizado por una sola persona. Cada actividad requiere apoyo, organización y participación
-            de varias personas para que todo funcione correctamente. Contar con colaboradores permite
-            que las tareas se repartan, se trabaje en equipo y se tenga un mayor impacto en la comunidad.
+            Sí, es necesario integrar colaboradores porque un proyecto comunitario requiere la
+            participación de varias personas. El trabajo en equipo permite repartir tareas, fortalecer
+            las acciones y generar un mayor impacto positivo en la comunidad.
         </p>
 
         <h5>En caso de no contar con colaboradores, ¿qué consecuencias habría?</h5>
         <p>
-            Si no se contara con colaboradores, el proyecto sería mucho más difícil de realizar, las
-            actividades tardarían más tiempo en completarse, habría sobrecarga de trabajo y algunas
-            acciones, como las limpiezas o la capacitación, podrían no llevarse a cabo, afectando el
-            cumplimiento de los objetivos.
+            Sin colaboradores, el proyecto tendría retrasos, sobrecarga de trabajo y dificultades para
+            cumplir con las actividades planeadas, lo que afectaría el logro de los objetivos.
         </p>
 
         <h5>¿Qué tecnologías podrían ayudarte a encontrar personas interesadas?</h5>
         <p>
-            Las tecnologías son una gran ayuda para encontrar personas interesadas en participar.
-            Aplicaciones como WhatsApp y Facebook permiten difundir información rápidamente a través
-            de grupos vecinales. También se pueden usar formularios en línea y el correo electrónico
-            para registrar a los interesados y mantener una buena comunicación con los participantes.
+            Tecnologías como redes sociales, aplicaciones de mensajería y formularios digitales
+            permiten difundir información rápidamente y facilitar la comunicación con personas
+            interesadas en participar en el proyecto.
         </p>
     </div>
 

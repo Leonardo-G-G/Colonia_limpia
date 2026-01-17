@@ -235,7 +235,7 @@
                         <td>Carretillas, contenedores</td>
                         <td>Teléfono celular</td>
                         <td>$800.00 MXN (transporte y apoyo logístico)</td>
-                        <td>Participantes y apoyo municipal</td>
+                        <td>Integrantes del proyecto y Autoridades municipales</td>
                     </tr>
 
                     <tr>
@@ -244,7 +244,7 @@
                         <td>Material didáctico, carteles</td>
                         <td>Proyector, presentaciones digitales</td>
                         <td>$500.00 MXN (impresión de materiales)</td>
-                        <td>Facilitador y asistentes</td>
+                        <td>Facilitador</td>
                     </tr>
                     <tr>
                         <td>Tarea 4.2 Distribuir material informativo a las familias.</td>
@@ -281,7 +281,7 @@
                         <td>Oficios, señalética</td>
                         <td>Correo electrónico</td>
                         <td>$300.00 MXN (gestión y papelería)</td>
-                        <td>Autoridades y coordinador</td>
+                        <td>Autoridades municipales</td>
                     </tr>
                     <tr>
                         <td>Tarea 5.2 Promover el uso adecuado de los contenedores.</td>
